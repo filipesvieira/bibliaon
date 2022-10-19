@@ -17,8 +17,6 @@ const DateChoise = () => {
     // const [count, setCount] = useState(0);
 
     useEffect(() => {
-        console.log("🚀 ~ file: countdown.js ~ line 15 ~ Count ~ stateTheme", stateTheme)
-
         // setInterval(() => {
         //     setCount(prevCount => prevCount + 1);
         //     setCurrentDate(moment(new Date()).format("DD/MM/YYYY hh:mm:ss"));
